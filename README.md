@@ -1,4 +1,4 @@
-# research
+# Research
 Research Papers on Physics, Engineering and Machine Learning
 
 # Thomas Lock — Research Repository  
