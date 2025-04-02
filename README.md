@@ -1,4 +1,4 @@
-# Research Papers
+# Research Papers  
 Research Papers on Physics, Engineering and Machine Learning
 
 # Thomas Lock — Research Repository  
@@ -29,8 +29,25 @@ These papers are shared freely for the benefit of the scientific community, educ
 *A Horizonless Black Hole Model Grounded in Coherence Saturation*  
 - Proposes a core-stabilized model of black holes without singularities  
 - Maintains thermodynamic consistency and information retention  
-- Companion to the Mesh Model
+- Companion to the Mesh Model  
 - → [`papers/physics/A_Horizonless_Model_of_Black_Holes_as_Supercooled_Quantum_Cores_with_Vacuum_Regulated_Radiation.pdf`](./A_Horizonless_Model_of_Black_Holes_as_Supercooled_Quantum_Cores_with_Vacuum_Regulated_Radiation.pdf)
+
+---
+
+### 🔁 Integrating the Mesh Model with General Field Theory  
+*From Discrete Tension Networks to Fully Quantized Fields*  
+- Introduces the **Mesh-Field Transformer**, a formal mechanism for mapping discrete mesh dynamics to the continuous language of QFT  
+- Shows how canonical quantization, operator algebra, and Lagrangian structure emerge from a tension-based spacetime substrate  
+- Provides a full worked example and mathematical proofs bridging structure to fields  
+- → [`papers/physics/The_Mesh_Model___Tension_to_QFT.pdf`](./papers/physics/The_Mesh_Model___Tension_to_QFT.pdf)
+
+---
+
+## 🧾 Mesh Model Cheat Sheet  
+*A One-Page Reference for the Mesh Model Framework*  
+- Compact overview of key equations, principles, and predictions  
+- Ideal for presentations, seminars, or quick lookup  
+- → [`papers/physics/The_Mesh_Model_Math_Cheat_Sheet.pdf`](./papers/physics/The_Mesh_Model_Math_Cheat_Sheet.pdf)
 
 ---
 
