@@ -38,7 +38,7 @@ These papers are shared freely for the benefit of the scientific community, educ
 *From Discrete Tension Networks to Fully Quantized Fields*  
 - Introduces the **Mesh-Field Transformer**, a formal mechanism for mapping discrete mesh dynamics to the continuous language of QFT  
 - Shows how canonical quantization, operator algebra, and Lagrangian structure emerge from a tension-based spacetime substrate  
-- Provides a full worked example and mathematical proofs bridging structure to fields  
+- Provides a full worked example and mathematical proofs bridging structure to fields.  
 - → [`papers/physics/The_Mesh_Model___Tension_to_QFT.pdf`](./papers/physics/The_Mesh_Model___Tension_to_QFT.pdf)
 
 ---
