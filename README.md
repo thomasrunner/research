@@ -30,7 +30,7 @@ These papers are shared freely for the benefit of the scientific community, educ
 - Proposes a core-stabilized model of black holes without singularities  
 - Maintains thermodynamic consistency and information retention  
 - Companion to the Mesh Model  
-- → [`papers/physics/A_Horizonless_Model_of_Black_Holes_as_Supercooled_Quantum_Cores_with_Vacuum_Regulated_Radiation.pdf`](./A_Horizonless_Model_of_Black_Holes_as_Supercooled_Quantum_Cores_with_Vacuum_Regulated_Radiation.pdf)
+- → [`papers/physics/A_Horizonless_Model_of_Black_Holes_as_Supercooled_Quantum_Cores_with_Vacuum_Regulated_Radiation.pdf`](../papers/physics/A_Horizonless_Model_of_Black_Holes_as_Supercooled_Quantum_Cores_with_Vacuum_Regulated_Radiation.pdf)
 
 ---
 
@@ -58,6 +58,16 @@ These papers are shared freely for the benefit of the scientific community, educ
 - Designed as both a learning accelerator and intellectual defense tool  
 - Covers structure, field dynamics, observational predictions, quantum gravity, and educational philosophy  
 - → [`papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf`](./papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf)
+
+---
+
+### 🌌 Three Light Cones  
+*A Structured Framework for Causality from Coherence, Curvature, and Tension*  
+- Proposes that causal structure is not a geometric axiom but a physical outcome of ripple propagation in a structured medium  
+- Introduces three interdependent cone structures—coherence, tension, and curvature—to replace the classical light cone  
+- Unifies thermodynamics, QFT locality, and gravitational delay into a testable, emergent causal system  
+- Compatible with gravitational wave echoes, tunneling radiation, and dynamic entropy bounds  
+- → [`papers/physics/Three_Light_Cones_of_The_Mesh_Model.pdf`](./papers/physics/Three_Light_Cones_of_The_Mesh_Model.pdf)
 
 ---
 
