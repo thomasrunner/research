@@ -43,6 +43,24 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
+### 📊 Coherence Phase Space  
+*A Structural Classification Framework for Particles in the Mesh Model*  
+- Replaces symmetry-based classification with a structure-first approach  
+- Maps all particles into a new phase space using coherence, stability, and curvature response  
+- Provides a natural explanation for dark matter and dark energy as phase-stable configurations  
+- → [`papers/physics/Coherence_Phase_Space.pdf`](./papers/physics/Coherence_Phase_Space.pdf)
+
+---
+
+### ⚔️ The Mesh Model vs. String Theory  
+*A 60-Category Comparison for Learning, Analysis, and Debate*  
+- Side-by-side framework showing how the Mesh Model and String Theory differ across 60 foundational dimensions  
+- Designed as both a learning accelerator and intellectual defense tool  
+- Covers structure, field dynamics, observational predictions, quantum gravity, and educational philosophy  
+- → [`papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf`](./papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf)
+
+---
+
 ## 🧾 Mesh Model Cheat Sheet  
 *A One-Page Reference for the Mesh Model Framework*  
 - Compact overview of key equations, principles, and predictions  
