@@ -55,15 +55,6 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
-### ⚔️ The Mesh Model vs. String Theory  
-*A 60-Category Comparison for Learning, Analysis, and Debate*  
-- Side-by-side framework showing how the Mesh Model and String Theory differ across 60 foundational dimensions  
-- Designed as both a learning accelerator and intellectual defense tool  
-- Covers structure, field dynamics, observational predictions, quantum gravity, and educational philosophy  
-- → [`papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf`](./papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf)
-
----
-
 ### 🌌 Three Light Cones  
 *A Structured Framework for Causality from Coherence, Curvature, and Tension*  
 - Proposes that causal structure is not a geometric axiom but a physical outcome of ripple propagation in a structured medium  
@@ -88,6 +79,27 @@ These papers are shared freely for the benefit of the scientific community, educ
 - ✅ **Coherence cone visualizations** for left/right or multi-channel propagation  
 - ✅ **Interference regions**, tunneling, and double slit geometry  
 - ✅ (Planned) Quark triplet confinement and gluon curvature field propagation
+
+---
+
+## 🧮 The Mesh Model vs. AdS/CFT (Holography)
+*A 70-Category Structural and Philosophical Comparison
+
+- Systematic comparison between the Mesh Model and the AdS/CFT correspondence
+- Covers spacetime emergence, field dynamics, causality, black hole structure, and quantum behavior
+- Highlights coherence-based geometry versus boundary-entanglement dualities
+- Designed for researchers, educators, and students analyzing quantum gravity foundations
+- → [`papers/physics/The_Mesh_Model_vs__AdS_CFT_Holography.pdf`](./papers/physics/The_Mesh_Model_vs__AdS_CFT_Holography.pdf) 
+
+---
+
+### ⚔️ The Mesh Model vs. String Theory  
+*A 60-Category Comparison for Learning, Analysis, and Debate*  
+- Side-by-side framework showing how the Mesh Model and String Theory differ across 60 foundational dimensions  
+- Designed as both a learning accelerator and intellectual defense tool  
+- Covers structure, field dynamics, observational predictions, quantum gravity, and educational philosophy  
+- → [`papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf`](./papers/physics/The_Mesh_Model_vs__String_Theory__50_Category_Comparison_List.pdf)
+
 ---
 
 ## License
