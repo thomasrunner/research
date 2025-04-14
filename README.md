@@ -81,6 +81,14 @@ These papers are shared freely for the benefit of the scientific community, educ
 - → [`papers/physics/The_Mesh_Model_Math_Cheat_Sheet.pdf`](./papers/physics/The_Mesh_Model_Math_Cheat_Sheet.pdf)
 
 ---
+## 🧾 Mesh Model Python Simulation Script
+- ✅ **Ripple evolution** over a coherence-regulated tension mesh  
+- ✅ **Dynamic light cone deformation** based on local coherence and resistance  
+- ✅ **Mass emergence** from collapse and propagation decay  
+- ✅ **Coherence cone visualizations** for left/right or multi-channel propagation  
+- ✅ **Interference regions**, tunneling, and double slit geometry  
+- ✅ (Planned) Quark triplet confinement and gluon curvature field propagation
+---
 
 ## License
 
