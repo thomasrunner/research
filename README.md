@@ -25,7 +25,18 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
-### 🕳️ Hearts of Giants  
+### 📘 Mesh Field Theory (2025 Edition)  
+*A Causal Coherence Framework for Mass, Fields, and Particle Interactions*  
+- Builds mass, spin, and gauge behavior from coherence, tension, and curvature structure  
+- Derives mass as \( m = \chi_{\text{eff}}(x) \cdot f(x) \) with Compton frequency matching  
+- Constructs causal cones and Mesh S-Matrix without virtual particles  
+- Explains dark matter and dark energy as coherence phase outcomes  
+- Eliminates singularities and renormalization by structural saturation  
+- Full technical paper + updated Math Cheat Sheet included
+
+---
+
+### 🕳️ Hearts of Giants - Retired Paper
 *A Horizonless Black Hole Model Grounded in Coherence Saturation*  
 - Proposes a core-stabilized model of black holes without singularities  
 - Maintains thermodynamic consistency and information retention  
@@ -34,7 +45,7 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
-### 🔁 Integrating the Mesh Model with General Field Theory  
+### 🔁 Integrating the Mesh Model with General Field Theory - Retired Paper Merged into Mesh Field Theory
 *From Discrete Tension Networks to Fully Quantized Fields
 
 - Introduces the Mesh–Field Transformer, a foundational mechanism for mapping discrete mesh structure into the continuous language of quantum field theory
@@ -46,7 +57,7 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
-### 📊 Coherence Phase Space  
+### 📊 Coherence Phase Space - Retired Paper Merged into Mesh Field Theory
 *A Structural Classification Framework for Particles in the Mesh Model*  
 - Replaces symmetry-based classification with a structure-first approach  
 - Maps all particles into a new phase space using coherence, stability, and curvature response  
@@ -55,7 +66,7 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
-### 🌌 Three Light Cones  
+### 🌌 Three Light Cones - Retired Paper Merged into Mesh Field Theory
 *A Structured Framework for Causality from Coherence, Curvature, and Tension*  
 - Proposes that causal structure is not a geometric axiom but a physical outcome of ripple propagation in a structured medium  
 - Introduces three interdependent cone structures—coherence, tension, and curvature—to replace the classical light cone  
