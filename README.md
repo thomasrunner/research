@@ -36,6 +36,18 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
+### 📘 Mesh Quantum Computing (2025 Edition)
+- A Causal Replacement for the Quantum Circuit Model and Quantum Information Framework
+- Reconstructs superposition, interference, and entanglement using causal coherence vectors
+- Replaces qubits with real coherence fields: C(x,t) = ∇φ(x,t) · χ(x,t)
+- Reproduces Grover’s, Shor’s, and Simon’s algorithms using Mesh oracle and Fourier logic
+- Replaces measurement collapse with deterministic divergence: Γ(x) > Γ_crit
+- Provides Mesh-based phase estimation, error correction, and teleportation equivalents
+- Mirrors CMU’s 15-859BB quantum computing course lecture-for-lecture
+- Full 12-lecture PDF course + introduction available in /papers/quantumcomputing/
+
+---
+
 ### 🕳️ Hearts of Giants - Retired Paper
 *A Horizonless Black Hole Model Grounded in Coherence Saturation*  
 - Proposes a core-stabilized model of black holes without singularities  
