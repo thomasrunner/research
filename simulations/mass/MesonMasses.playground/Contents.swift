@@ -2,7 +2,7 @@
 //  MesonMasses.swift
 //
 //  Created by Thomas Lock on Jun 2 2025
-//
+//  Based on Paper > https://zenodo.org/records/15596490
 
 
 import Foundation
