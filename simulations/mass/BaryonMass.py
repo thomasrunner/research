@@ -45,7 +45,6 @@ def predicted_mass(quarks, spin, isospin, isospin3):
     isoTerm  = E_iso * 2.0 * isospin * G
     i3Term   = E_i3 * isospin3 / G
 
-    # ✅ corrected: include −2.75 offset
     sinTerm = A_sin * math.sin((2 * math.pi * (spinTerm + isoTerm - 2.75) / T_sin)) * G
 
     charmTerm  = charmed * math.cos((math.pi * isoTerm + 2/3)) * E_charm
