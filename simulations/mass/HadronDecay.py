@@ -177,7 +177,6 @@ def predictedDecay(hadron):
             flavor_decay *= pow(ΔEc * ΔEb, gate(Gc * Gb == 1))
             flavor_decay *= pow(ΔEs * ΔEb * 7/15, gate(Gs * Gb == 1))
 
-
     return (κ * (hbar / ΔE)) * spin_decay * state_decay * superspin * flavor_decay
 
 
@@ -245,6 +244,12 @@ if __name__ == "__main__":
         Hadron("Rho−",      ["u", "d"], 1.0, 775.11,    1.0, -1.0, 1, 4.5e-24,     0, 0, -1.0),
         Hadron("Rho0",      ["u", "d"], 1.0, 775.11,    1.0,  0.0, 1, 4.4e-24,     0, 0,  0.0)
     ]
+
+    totalError = 0.0
     for h in hadrons:
         pred = predictedDecay(h)
-        print(f"{h.name:12s} | Obs: {h.decayTime:.5e}s | Pred: {pred:.5e}s | Error: {((pred - h.decayTime) / h.decayTime) * 100:.5f}%")
+        error = ((pred - h.decayTime) / h.decayTime) * 100.0
+        totalError += abs(error)
+        print(f"{h.name:12s} | Obs: {h.decayTime:.5e}s | Pred: {pred:.5e}s | Error: {error:+9.5f}%")
+
+print(f"Total Hadron Decay Δ%% error: {totalError / len(hadrons):.5f}%")
