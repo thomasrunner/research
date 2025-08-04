@@ -36,18 +36,6 @@ These papers are shared freely for the benefit of the scientific community, educ
 
 ---
 
-### 📘 Mesh Quantum Computing (2025 Edition)
-- A Causal Replacement for the Quantum Circuit Model and Quantum Information Framework
-- Reconstructs superposition, interference, and entanglement using causal coherence vectors
-- Replaces qubits with real coherence fields: C(x,t) = ∇φ(x,t) · χ(x,t)
-- Reproduces Grover’s, Shor’s, and Simon’s algorithms using Mesh oracle and Fourier logic
-- Replaces measurement collapse with deterministic divergence: Γ(x) > Γ_crit
-- Provides Mesh-based phase estimation, error correction, and teleportation equivalents
-- Mirrors CMU’s 15-859BB quantum computing course lecture-for-lecture
-- Full 12-lecture PDF course + introduction available in /papers/quantumcomputing/
-
----
-
 ### 🕳️ Hearts of Giants - Retired Paper
 *A Horizonless Black Hole Model Grounded in Coherence Saturation*  
 - Proposes a core-stabilized model of black holes without singularities  
@@ -75,16 +63,6 @@ These papers are shared freely for the benefit of the scientific community, educ
 - Maps all particles into a new phase space using coherence, stability, and curvature response  
 - Provides a natural explanation for dark matter and dark energy as phase-stable configurations  
 - → [`papers/physics/Coherence_Phase_Space.pdf`](./papers/physics/Coherence_Phase_Space.pdf)
-
----
-
-### 🌌 Three Light Cones - Retired Paper Merged into Mesh Field Theory
-*A Structured Framework for Causality from Coherence, Curvature, and Tension*  
-- Proposes that causal structure is not a geometric axiom but a physical outcome of ripple propagation in a structured medium  
-- Introduces three interdependent cone structures—coherence, tension, and curvature—to replace the classical light cone  
-- Unifies thermodynamics, QFT locality, and gravitational delay into a testable, emergent causal system  
-- Compatible with gravitational wave echoes, tunneling radiation, and dynamic entropy bounds  
-- → [`papers/physics/Three_Light_Cones_of_The_Mesh_Model.pdf`](./papers/physics/Three_Light_Cones_of_The_Mesh_Model.pdf)
 
 ---
 
