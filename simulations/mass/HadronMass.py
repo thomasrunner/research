@@ -26,10 +26,10 @@ class Isotope:
     halfLife: float
 
 # --- Constants ---
-E_quark = 2.2
-E_base = 114.883111
+E_quark = 2.79000
+E_base = 114.9318111
 E_spin_coupling = 251.39
-E_isospin_coupling = 16.0
+E_isospin_coupling = 17.52
 
 E_state = -104.546
 E_state_G2 = E_state * -100**(1/3)
@@ -41,8 +41,8 @@ E_strange_coupling = 9.6
 sigma = 0.262
 
 transitionL1 = {
-    "u→d": 3.1,
-    "d→s": 357.405,
+    "u→d": 1.296,
+    "d→s": 358.405,
     "s→c": 1371.35,
     "c→b": 3403.1,
     "b→t": 167388.145
@@ -199,13 +199,13 @@ hadrons = [
     Hadron(name="Neutron", mass=939.565421, spin=0.5, isospin=0.5, isospin3=-0.5, quarks=["u", "d", "d"], state=1),
 
     # Quarks
-    Hadron(name="u", mass=2.2, spin=0.5, isospin=0.5, isospin3=0.5, quarks=["u"], state=1),
+    Hadron(name="u", mass=2.79000, spin=0.5, isospin=0.5, isospin3=0.5, quarks=["u"], state=1),
 
-    Hadron(name="d", mass=5.30000, spin=0.5, isospin=0.5,  isospin3=-0.5, quarks=["d"], state=1),
-    Hadron(name="s", mass=184.0025, spin=0.5, isospin=0.0,  isospin3=0.0, quarks=["s"], state=1),
-    Hadron(name="c", mass=1541.60615, spin=0.5, isospin=0.0,  isospin3=0.0, quarks=["c"], state=1),
-    Hadron(name="b", mass=4696.36393, spin=0.5, isospin=0.0,  isospin3=0.5, quarks=["b"], state=1),
-    Hadron(name="t", mass=172525.30000, spin=0.5, isospin=0.0,  isospin3=0.5, quarks=["t"], state=1),
+    Hadron(name="d", mass=4.08600, spin=0.5, isospin=0.5,  isospin3=-0.5, quarks=["d"], state=1),
+    Hadron(name="s", mass=183.28850, spin=0.5, isospin=0.0,  isospin3=0.0, quarks=["s"], state=1),
+    Hadron(name="c", mass=1540.85369, spin=0.5, isospin=0.0,  isospin3=0.0, quarks=["c"], state=1),
+    Hadron(name="b", mass=4696.14993, spin=0.5, isospin=0.0,  isospin3=0.5, quarks=["b"], state=1),
+    Hadron(name="t", mass=172525.08600, spin=0.5, isospin=0.0,  isospin3=0.5, quarks=["t"], state=1),
 
     # Mesons
     Hadron(name="Pi0", mass=134.9766, spin=0.0, isospin=1.0,  isospin3=0.0, quarks=["u", "d"], state=1),
@@ -247,8 +247,6 @@ hadrons = [
     Hadron(name="Upsilon(6S)", mass=11000.0, spin=1.0, isospin=0.0,  isospin3=0.0, quarks=["b", "b"], state=6),
 
     # Baryons
-
-
     Hadron(name="Lambda0",      mass=1115.683,   spin=0.5, isospin=0.0, isospin3=0.0,  quarks=["u", "d", "s"], state=1),
     Hadron(name="Sigma+",       mass=1189.370,   spin=0.5, isospin=1.0, isospin3=1.0,  quarks=["u", "u", "s"], state=1),
     Hadron(name="Sigma0",       mass=1192.642,   spin=0.5, isospin=1.0, isospin3=0.0,  quarks=["u", "d", "s"], state=1),
@@ -276,15 +274,15 @@ hadrons = [
     Hadron(name="Omega−b",      mass=6045.100,   spin=0.5, isospin=0.0, isospin3=0.0,  quarks=["s", "s", "b"], state=1),
 
     #Top Predictions Meson
-    Hadron(name="Dt0", mass=172646.98311, spin=0.0, isospin=0.5,  isospin3=-0.5, quarks=["t", "u"], state=1),
-    Hadron(name="D̄t0", mass=172646.98311, spin=0.0, isospin=0.5,  isospin3=0.5, quarks=["t", "u"], state=1),
-    Hadron(name="Dt+", mass=172650.08311, spin=0.0, isospin=0.5,  isospin3=0.5, quarks=["t", "d"], state=1),
-    Hadron(name="Dt-", mass=172650.08311, spin=0.0, isospin=0.5,  isospin3=-0.5, quarks=["t", "d"], state=1),
+    Hadron(name="Dt0", mass=172646.98781, spin=0.0, isospin=0.5,  isospin3=-0.5, quarks=["t", "u"], state=1),
+    Hadron(name="D̄t0", mass=172646.98781, spin=0.0, isospin=0.5,  isospin3=0.5, quarks=["t", "u"], state=1),
+    Hadron(name="Dt+", mass=172648.28381, spin=0.0, isospin=0.5,  isospin3=0.5, quarks=["t", "d"], state=1),
+    Hadron(name="Dt-", mass=172648.28381, spin=0.0, isospin=0.5,  isospin3=-0.5, quarks=["t", "d"], state=1),
 
     #Top Predictions Baryon
-    Hadron(name="Sigma++t",     mass=173474.16489,   spin=0.5, isospin=1.0, isospin3=1.0,  quarks=["u", "u", "t"], state=1),
-    Hadron(name="Sigma+t",      mass=173477.26489,   spin=0.5, isospin=1.0, isospin3=0.0,  quarks=["u", "d", "t"], state=1),
-    Hadron(name="Sigma0t",      mass=173480.36489,   spin=0.5, isospin=1.0, isospin3=-1.0, quarks=["d", "d", "t"], state=1),
+    Hadron(name="Sigma++t",     mass=173476.79049,   spin=0.5, isospin=1.0, isospin3=1.0,  quarks=["u", "u", "t"], state=1),
+    Hadron(name="Sigma+t",      mass=173478.08649,   spin=0.5, isospin=1.0, isospin3=0.0,  quarks=["u", "d", "t"], state=1),
+    Hadron(name="Sigma0t",      mass=173479.38249,   spin=0.5, isospin=1.0, isospin3=-1.0, quarks=["d", "d", "t"], state=1),
 ]
 
 isotopes = [
@@ -313,8 +311,8 @@ isotopes = [
 ]
 
 # Constants
-M_p = 938.16489
-M_n = 941.26489
+M_p = 938.27049
+M_n = 939.56649
 m_e = 0.5109989461
 
 # Run predictions
@@ -337,7 +335,7 @@ for iso in isotopes:
     A = Z + N
 
     baseMass = Z * M_p + N * M_n + Z * m_e
-    kappa = 0.9995 - 0.00621 * (A / 239.0)**0.0154 * N / Z
+    kappa = 0.9995 - 0.00525 * (A / 239.0)**0.0154 * N / Z
     predicted = baseMass * kappa
     error = ((predicted - iso.massObs) / iso.massObs) * 100.0
 
